@@ -1,0 +1,41 @@
+h1 {
+  height: 50px;
+  width: 200px;
+  background-color: aquamarine;
+  border: 3px dotted black;
+  text-align: center;
+  /* color: green; */
+  /* text-decoration: red underline; */
+  /* text-align: center; */
+}
+p {
+  /* color: rgb(183, 245, 27); */
+  text-align: center;
+}
+button {
+  color: rgb(155, 215, 24);
+  background-color: white;
+}
+
+body {
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+#one {
+  font-size: 25px;
+  line-height: normal;
+  text-transform: capitalize;
+}
+div {
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+  border-width: 2px;
+  border-style: solid;
+  border-color: brown;
+  text-align: right;
+}
